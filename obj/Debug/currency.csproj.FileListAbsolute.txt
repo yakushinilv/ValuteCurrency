@@ -1,0 +1,10 @@
+C:\Users\dprog\source\repos\currency\currency\bin\Debug\currency.exe.config
+C:\Users\dprog\source\repos\currency\currency\bin\Debug\currency.exe
+C:\Users\dprog\source\repos\currency\currency\bin\Debug\currency.pdb
+C:\Users\dprog\source\repos\currency\currency\obj\Debug\currency.csprojAssemblyReference.cache
+C:\Users\dprog\source\repos\currency\currency\obj\Debug\currency.Form1.resources
+C:\Users\dprog\source\repos\currency\currency\obj\Debug\currency.Properties.Resources.resources
+C:\Users\dprog\source\repos\currency\currency\obj\Debug\currency.csproj.GenerateResource.cache
+C:\Users\dprog\source\repos\currency\currency\obj\Debug\currency.csproj.CoreCompileInputs.cache
+C:\Users\dprog\source\repos\currency\currency\obj\Debug\currency.exe
+C:\Users\dprog\source\repos\currency\currency\obj\Debug\currency.pdb
